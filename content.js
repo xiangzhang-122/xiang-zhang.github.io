@@ -79,6 +79,16 @@ const SITE_CONTENT = {
         { label: "Code", url: "#" }
       ]
     },
+     {
+      year: "2026",
+      title: "Second publication of 2026",
+      authors: "<strong>Xiang Your-Surname</strong>, Coauthor One, and Coauthor Two",
+      venue: "IEEE Transactions on Information Theory",
+      links: [
+        { label: "Paper", url: "#" },
+        { label: "Code", url: "#" }
+      ]
+    },
     {
       year: "2025",
       title: "A second representative publication",
