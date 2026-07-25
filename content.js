@@ -12,7 +12,7 @@ You only need to edit this file.
 */
 
 const SITE_CONTENT = {
-  name: "Xiang Your-Surname",
+  name: "Xiang Zhang",
   affiliation: "Postdoctoral Researcher · Technical University of Berlin",
 
   heroTitle: "Efficient AI systems, information theory, and distributed inference.",
